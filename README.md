@@ -1,6 +1,5 @@
 
-# I build stuff, fast, clean
-
+I build stuff, fast, clean
 
 <div align="left">
   <a href="https://app.daily.dev/lancedewaele"><img src="https://api.daily.dev/devcards/v2/Naod7pCiy52k9CtiINf9y.png?r=s6b" width="240" align="right" alt="Lance De Waele's Dev Card"/></a>
