@@ -1,5 +1,5 @@
 
-I build stuff, fast, clean.
+I like to build stuff, fast, clean.
 
 ## Tech I use
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,ts,nextjs,nodejs,postgres,prisma,py,redis,flutter)](https://skillicons.dev)
